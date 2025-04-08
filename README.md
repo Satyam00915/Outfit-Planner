@@ -1,6 +1,6 @@
 # 🧥 Outfit Planner
 
-A stylish and intelligent outfit recommendation React app based on real-time weather data. Built with ❤️ by **Bhupendra Sirvi (Reg No: 12306033)**.
+A stylish and intelligent outfit recommendation React app based on real-time weather data. Built with ❤️ by **Satyam Upadhyay **.
 
 ![Outfit Planner Screenshot](./public/image.png)
 
