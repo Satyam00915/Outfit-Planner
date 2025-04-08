@@ -1,12 +1,40 @@
-# React + Vite
+# 🧥 Outfit Planner
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A stylish and intelligent outfit recommendation React app based on real-time weather data. Built with ❤️ by **Bhupendra Sirvi (Reg No: 12306033)**.
 
-Currently, two official plugins are available:
+![Outfit Planner Screenshot](./public/image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌦️ Fetches live weather data using the **OpenWeatherMap API**
+- 👕 Suggests outfit ideas tailored to weather conditions
+- 🎨 Sexy dark-themed UI with beautiful animations
+- ⚛️ Built with **React**, **TailwindCSS**, and **Framer Motion**
+- 💡 Super lightweight, single-page app with frontend-only logic
+
+---
+
+## 📸 Demo
+
+> Coming soon... or host it on [Vercel](https://vercel.com) / [Netlify](https://netlify.com) to share with friends!
+
+---
+
+## 🛠️ Tech Stack
+
+- **React** – Frontend UI Library
+- **TailwindCSS** – Styling with utility-first CSS
+- **Framer Motion** – Animations and transitions
+- **Lucide Icons** – Beautiful weather icons
+- **OpenWeatherMap API** – Real-time weather data
+
+---
+
+## 🔧 Installation
+
+```bash
+git clone https://github.com/Satyam00915/Outfit-Planner.git
+cd outfit-planner
+npm install
+npm run dev
